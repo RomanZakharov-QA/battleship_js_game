@@ -1,2 +1,3 @@
 # battleship_js_game
-Browser JavaScript game "Battleship". Браузерная игра "Морской бой" на JavaScript.
+Browser JavaScript game "Battleship". Made while reading "Head First JavaScript Programming".
+Браузерная игра "Морской бой" на JavaScript.
